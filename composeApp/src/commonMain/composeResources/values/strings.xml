@@ -1,0 +1,4 @@
+<resources>
+    <string name="show_another_dog_button_text">Show Random Dog</string>
+    <string name="title">Random Dogs</string>
+</resources>
